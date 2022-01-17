@@ -1,5 +1,8 @@
-Thank you for your interest in [Callout Interface](https://www.lcpdfr.com/downloads/gta5mods/scripts/37828-callout-interface/).  If you get stuck, please feel free to visit our [Discord Server](https://discord.gg/AuJCUag).
+# Callout Interface API [![Discord](https://img.shields.io/badge/discord-join-7289DA.svg)](https://discord.gg/AuJCUag)
 
+![example](https://i.imgur.com/dCNjoPA.png)
+
+## Wiki Pages
 * [Callout Developers](https://github.com/Immersive-Plugins-Team/Callout-Interface-API/wiki/Callout-Developers)
 * [Texture Mods](https://github.com/Immersive-Plugins-Team/Callout-Interface-API/wiki/Texture-Mods)
 
